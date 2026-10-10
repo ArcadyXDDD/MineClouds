@@ -107,12 +107,12 @@ Prawdziwe widoki panelu: terminal, grupy, makra, pluginy i przegląd floty. Peł
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Y9XHHLa7_gc">
-    <img src="assets/prezentacja.jpg" alt="Film: MineCloud — zaawansowany panel do botów Minecraft" width="720" />
+    <img src="assets/prezentacja.gif" alt="Film: MineCloud — zaawansowany panel do botów Minecraft" width="600" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Y9XHHLa7_gc"><strong>Obejrzyj film — MineCloud na YouTube</strong></a>
+  <a href="https://www.youtube.com/watch?v=Y9XHHLa7_gc"><strong>Obejrzyj pełny film</strong></a>
   <br />
   <sub>Kanał <a href="https://www.youtube.com/@MineCloudPL">MineCloudPL</a></sub>
 </p>
